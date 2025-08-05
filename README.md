@@ -25,6 +25,14 @@ This is a path that contains over 60 hours of material. What you should focus on
 
 4. [**Debugging Sitges with Chrome DevTools**](https://app.pluralsight.com/library/courses/chrome-developer-tools-debugging-sites/table-of-contents) _( More of the same good stuff!)_
 
+## CSS
+
+Two specifc courses about flexbox and CSS Grid that you might find value in.
+
+1. [Creating Responsive Pages with CSS FlexBox](https://app.pluralsight.com/library/courses/css-flexbox-creating-responsive-pages/table-of-contents)
+
+2. [Creating Layouts with CSS Grid](https://app.pluralsight.com/library/courses/css-grid-creating-layouts/table-of-contents)
+
 ## TypeScript
 
 Path - [TypeScript](https://app.pluralsight.com/paths/skills/typescript)
